@@ -1,4 +1,7 @@
 # mhirro.github.io
+[test]
+
+[test]:/test
 
 https://qiita.com/mitsuhisaT/items/8668b70586b9605040bd
 https://minakawa-daiki.github.io/gh_pages-manual/chapter4.html
