@@ -2,6 +2,13 @@
 [test]
 [ベクトル解析]
 
+
+GitBookを使っています。
+LICENCE:https://www.apache.org/licenses/LICENSE-2.0
+
+
+
+
 [test]:https://mhirro.github.io/docs/test
 [ベクトル解析]:https://mhirro.github.io/docs/vectoranarisys
 
