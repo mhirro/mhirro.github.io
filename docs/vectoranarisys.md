@@ -35,6 +35,5 @@ $[A\ B\ C]$：グラスマンの記号
 
 
 
-
 [ベクトル解析-wikipedia]:https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E8%A7%A3%E6%9E%90
 [The Math Page]:https://www.themathpage.com/index.html
