@@ -3,7 +3,7 @@
 [ベクトル解析]
 
 [test]:https://mhirro.github.io/test
-[ベクトル解析]:/vectoranarisys
+[ベクトル解析]:https://mhirro.github.io/vectoranarisys
 
 https://qiita.com/mitsuhisaT/items/8668b70586b9605040bd
 https://minakawa-daiki.github.io/gh_pages-manual/chapter4.html
